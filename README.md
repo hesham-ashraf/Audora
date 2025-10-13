@@ -9,6 +9,7 @@ Audora is a music and podcast streaming platform with a beautiful UI and powerfu
 2. This will start both the backend and frontend automatically
 
 ### Manual Method
+ [Watch Project Demo Video](https://drive.google.com/file/d/1HQfp-fN8iy63E1DEbvlL6VvLJz4zxiO_/view?usp=sharing)
 
 #### Start the Backend
 1. Navigate to `audora_backend_boilerplate/audora-backend`
